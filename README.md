@@ -20,4 +20,4 @@ I used object oriented programming is to implement the functionality
 3) Run CalculatorLauncher.java
 
 ## Testing ##
-To test the app, all you need to do is running the 
+To test the app, all you need to do is running the EvaluationTest.java.
