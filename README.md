@@ -1,9 +1,16 @@
-# Calculator
-![](https://github.com/asemshaath/Calculator/blob/main/Calculator%20Symbol.jpg)
-# Calculator Preview #
+# UI Preview #
 ![](https://github.com/asemshaath/Calculator/blob/main/Pics/giffyCalculator.gif)
 
-This is a calculator that performs the arithmetic operations: addition,
+# About #
+This is a desktop calculator that performs the arithmetic operations: addition,
 subtraction, multiplication, division, and power.
 
-Object oriented programming is used to implement functionality
+I used object oriented programming is to implement the functionality
+
+# How to install? #
+## Requirmnets ##
+1) Java 15+
+2) Java FX 11+
+3) An IDE e.g.(IntelliJ, Eclipse)
+
+## Steps ##
