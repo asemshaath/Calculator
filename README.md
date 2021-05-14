@@ -1,5 +1,5 @@
 # Calculator
-
+![](https://github.com/asemshaath/Calculator/blob/main/Calculator%20Symbol.jpg)
 # Calculator Preview #
 ![](https://github.com/asemshaath/Calculator/blob/main/Pics/giffyCalculator.gif)
 
