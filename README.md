@@ -11,7 +11,8 @@ I used object oriented programming is to implement the functionality
 ## Requirmnets ##
 1) Java 15+
 2) Java FX 11+
-3) An IDE e.g.(IntelliJ, Eclipse)
+3) JUnit 5 (if you want to test)
+4) An IDE e.g.(IntelliJ, Eclipse)
 
 ## Steps ##
 1) Clone this repo
