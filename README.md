@@ -14,3 +14,6 @@ I used object oriented programming is to implement the functionality
 3) An IDE e.g.(IntelliJ, Eclipse)
 
 ## Steps ##
+1) Clone this repo
+2) Copy all .java files and the symbol image into you IDE
+3) Run 
