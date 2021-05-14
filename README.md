@@ -1,5 +1,6 @@
 # Calculator
 
+# Calculator Preview #
 ![](https://github.com/asemshaath/Calculator/blob/main/Pics/giffyCalculator.gif)
 
 This is a calculator that performs the arithmetic operations: addition,
