@@ -21,3 +21,6 @@ I used object oriented programming is to implement the functionality
 
 # Testing #
 To test the app, all you need to do is running the EvaluationTest.java.
+
+# Contribution #
+If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed. If you find any issue just put it in the repository issue section, thank you.
