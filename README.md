@@ -16,7 +16,7 @@ I used object oriented programming is to implement the functionality
 
 ### Steps ###
 1) Clone this repo
-2) Copy all .java files and the symbol image into you IDE
+2) Copy all .java files and the symbol image into your IDE
 3) Run CalculatorLauncher.java
 
 # Testing #
