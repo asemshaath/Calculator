@@ -1,11 +1,11 @@
-# UI Preview #
-![](https://github.com/asemshaath/Calculator/blob/main/Pics/giffyCalculator.gif)
-
 # About #
 This is a desktop calculator that performs the arithmetic operations: addition,
 subtraction, multiplication, division, and power.
 
 I used object oriented programming is to implement the functionality
+
+# UI Preview #
+![](https://github.com/asemshaath/Calculator/blob/main/Pics/giffyCalculator.gif)
 
 # How to install? #
 ## Requirmnets ##
@@ -19,5 +19,5 @@ I used object oriented programming is to implement the functionality
 2) Copy all .java files and the symbol image into you IDE
 3) Run CalculatorLauncher.java
 
-## Testing ##
+# Testing #
 To test the app, all you need to do is running the EvaluationTest.java.
